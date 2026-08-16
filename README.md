@@ -1,11 +1,13 @@
-# Hi 👋, I'm Alexandra Raluca Savu
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4479A1,100:00000&height=200&section=header&text=Alexandra%20Raluca%20Savu&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%26%20Cybersecurity%20Specialist&descAlignY=58&descSize=18)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4479A1&center=true&vCenter=true&width=650&lines=Higher+Technician+in+Multiplatform+App+Development+(DAM);Cybersecurity+Specialization+Course;Building+apps+and+exploring+how+to+break+(and+defend)+them.)
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:4479A1,100:00000&height=3&section=header)
 
 ### Software Developer & Cybersecurity Specialist
 
 Higher Technician in Multiplatform Application Development (DAM) · Specialization Course in Cybersecurity
 Building applications and exploring how to break (and defend) them.
-
----
 
 ### 🧭 About me
 
@@ -15,7 +17,7 @@ Building applications and exploring how to break (and defend) them.
 - 🌱 Always learning — my repos double as structured study notes as well as finished projects
 - 📄 [CV](https://github.com/alyraluca/selected-projects/blob/main/CV%20-%20Alexandra%20Savu.pdf)
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:4479A1,100:00000&height=3&section=header)
 
 ### 🚀 Featured projects
 
@@ -35,7 +37,7 @@ Structured study guides from my Cybersecurity specialization: ethical hacking, d
 A portfolio of coursework spanning object-oriented programming, concurrency, and desktop development: JDBC/JavaBeans data access, an ecosystem simulation, concurrent Python practices (threading, sockets), and a C#/WPF Minesweeper clone.
 `Java` `Python` `C#` `WPF`
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:4479A1,100:00000&height=3&section=header)
 
 ### 🛠️ Tech & tools
 
@@ -59,10 +61,17 @@ A portfolio of coursework spanning object-oriented programming, concurrency, and
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:4479A1,100:00000&height=3&section=header)
+
+### 🐍 Contribution graph
+
+![Snake animation](https://raw.githubusercontent.com/alyraluca/alyraluca/output/github-contribution-grid-snake-dark.svg)
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:4479A1,100:00000&height=3&section=header)
 
 ### 📫 Get in touch
 
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:savu.alexandra.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexandra-savu-1963402b7)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4479A1,100:00000&height=100&section=footer)
